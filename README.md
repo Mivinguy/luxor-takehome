@@ -14,7 +14,7 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser if you run this locally. Otherwise, I have deployed the app here: [https://takehome-sigma.vercel.app](https://takehome-sigma.vercel.app/)
 
 ### How would you monitor the application to ensure it is running smoothly?
 1. **Logging**: Implement logging throughout to record important events, errors, and performance metrics.
